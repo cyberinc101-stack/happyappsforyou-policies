@@ -1,3 +1,4 @@
 [
-  {"slug":"solitaire","name":"Solitaire","ads":true,"game":true,"date":"22 October 2026"}
+  {"slug":"solitaire","name":"Solitaire","ads":true,"game":true,"date":"22 October 2026"},
+  {"slug":"seismic-meter","name":"Seismic Meter","ads":true,"game":false,"date":"22 October 2026","sensor":"accelerometer","location":true,"maps":true,"premium":true,"notify":true,"stores":"settings, recordings and reports","disclaimer":"A phone accelerometer is a low-cost sensor that measures the motion of the phone, not of the ground. Readings depend on the phone, how it is placed and what is around it. Seismic Meter cannot measure earthquake magnitude, locate an epicentre or give an early warning, and its intensity labels are approximate and for reference only. Do not rely on it for safety, structural, engineering, insurance or legal decisions. Use professional, calibrated equipment for those."}
 ]
